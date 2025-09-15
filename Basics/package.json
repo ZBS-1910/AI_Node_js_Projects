@@ -1,0 +1,23 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "AI projects using node.js and Genai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZBS-1910/AI_Node_js_Projects.git"
+  },
+  "author": "ZBS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZBS-1910/AI_Node_js_Projects/issues"
+  },
+  "homepage": "https://github.com/ZBS-1910/AI_Node_js_Projects#readme",
+  "dependencies": {
+    "@google/genai": "^1.19.0",
+    "dotenv": "^17.2.2"
+  }
+}
